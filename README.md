@@ -1,0 +1,1 @@
+In this application, a user can enter any expression and the app will use PEMDAS to simplify or calculate an answer. This application can also handle any incorrect expressions presented by the user. This will throw an exception and ask the user to enter a new expression.
